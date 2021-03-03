@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Basededatos01
+Bundle-SymbolicName: basededatos01
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: basededatos01
+Bundle-RequiredExecutionEnvironment: JavaSE-15
